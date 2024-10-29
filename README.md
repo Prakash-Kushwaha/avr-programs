@@ -30,7 +30,7 @@ Feel free to explore the programs, modify them, and use them in your projects. E
 
 
 # License:
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
+This repository is licensed under the MIT License. See the [LICENSE] file for details.
 
 # Acknowledgements:
 Atmel Studio IDE: For providing a robust development environment.
