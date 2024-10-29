@@ -7,7 +7,7 @@ Welcome to my GitHub repository! This repo contains all the programs I've writte
 1. Clone the Repository:
 
 ```sh
-git clone https://github.com/yourusername/AVR_ATmega32_Programs.git
+git clone https://github.com/Prakash-Kushwaha/avr-programs.git
 ```
 
 2. Open Atmel Studio:
