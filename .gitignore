@@ -1,0 +1,9 @@
+*.atsln
+*.xml
+*.cproj
+*.cppproj
+*.asmproj
+Debug/
+.vs/
+avr-lm35/
+Embedded-Project/
